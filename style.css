@@ -46,6 +46,10 @@ p{
     cursor: pointer;
 }
 
+#search button:hover{
+    border: 0px;
+}
+
 #btnPage{
     display: none;
     padding: 15px;
